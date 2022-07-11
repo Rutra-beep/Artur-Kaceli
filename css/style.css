@@ -957,7 +957,7 @@ footer{
         grid-template-columns: auto;
     }
     .education-left{
-        width: 500px;
+        width: 480px;
         align-items: center;
     }
     .educations{
@@ -965,7 +965,7 @@ footer{
         flex-direction: column;
     }
     .education-right{
-        width: 500px;
+        width: 480px;
         align-items: center;
     }
     .jobs{
@@ -981,7 +981,9 @@ footer{
     .project{
         width: 300px;
     }
-
+    .education-left, .education-right{
+        width: 450px;
+    }
 }
 @media only screen and (min-width: 1100px){
     .contact{
