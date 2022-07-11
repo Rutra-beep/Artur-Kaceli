@@ -981,6 +981,9 @@ footer{
     .project{
         width: 300px;
     }
+    .education-left, .education-right{
+        width: 400px;
+    }
 
 }
 @media only screen and (min-width: 1100px){
