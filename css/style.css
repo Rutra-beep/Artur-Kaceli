@@ -487,12 +487,12 @@ header nav{
     text-decoration: none;
     color: white;
 }
-.project-buttons button{
+.project-button{
     border: none;
     border-radius: 10px;
     background-color: #14f801;
-    color: black;
     padding: 8px 22px;
+    color: black !important;
 }
 /* Projects End */
 
